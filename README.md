@@ -1,1 +1,1 @@
-# Mater-data-science
+# Master-data-science
